@@ -2,7 +2,7 @@
 
 Sistem manajemen santri terintegrasi yang memudahkan pengelolaan data dan keuangan santri pesantren menggunakan Google Sheets dan Apps Script.
 
-![E-Pesantren Banner](https://via.placeholder.com/800x200?text=E-Pesantren+Sistem+Manajemen+Santri)
+![E-Pesantren Banner](https://epesantren.co.id/wp-content/uploads/2021/09/epesantren_hitm-1536x332.png)
 
 ## 📋 Fitur Utama
 
