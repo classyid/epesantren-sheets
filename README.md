@@ -21,7 +21,7 @@ Sistem manajemen santri terintegrasi yang memudahkan pengelolaan data dan keuang
 ### Persiapan Awal
 1. Buat Google Spreadsheet baru
 2. Buka Extensions > Apps Script
-3. Copy-paste seluruh kode dari `e-pesantren.gs` ke editor
+3. Copy-paste seluruh kode dari `epesantren.gs` ke editor
 4. Simpan dan berikan nama proyek (contoh: "E-Pesantren")
 5. Ganti `API_KEY` dan `BASE_URL` dengan kredensial API pesantren Anda
 
